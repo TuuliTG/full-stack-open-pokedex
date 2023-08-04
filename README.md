@@ -1,8 +1,7 @@
 # Full Stack open CI/CD
 
-This repository is used for the CI/CD module of the Full stack open course
+Last exercise repo can be found here https://github.com/TuuliTG/Fullstack-Phonebook-CI-CD.
 
-Fork the repository to complete course exercises
 
 ## Commands
 
